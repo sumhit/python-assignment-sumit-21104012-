@@ -12,7 +12,7 @@ length of string is: 35
 reversed string: egaugnal evitisnes esac a si nohtyp
 
  (c)
-new string: case sensitive language
+new string: a case sensitive language
 
  (d)
 python is object oriented language
