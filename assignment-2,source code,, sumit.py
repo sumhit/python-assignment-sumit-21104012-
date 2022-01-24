@@ -11,7 +11,7 @@ print("\n (b)")
 print("reversed string:",string[::-1])
 
 print('\n (c)')
-p=(string[12:35])
+p=(string[10:35])
 print('new string:',p)
 
 print('\n (d)')
@@ -78,13 +78,13 @@ a=int(input("enter the first number:"))
 b=int(input("enter the second number:"))
 c=int(input("enter the third number:"))
 if a>b+c:
-      print("triangle is not possible")
+      print("given input lengths can form a triangle:NO")
 elif b>a+c:
-    print("triangle is not possible")
+    print("given input lengths can form a triangle:NO")
 elif c>a+b:
-    print("triangle is not possible")
+    print("given input lengths can form a triangle:NO")
 else:
-    print("triangle is possible")
+    print("given input lengths can form a triangle:YES")
 
    
 
