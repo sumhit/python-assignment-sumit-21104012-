@@ -67,4 +67,4 @@ Yes
 enter the first number:548
 enter the second number:472
 enter the third number:329
-triangle is possible
+given input lengths can form a triangle:YES
