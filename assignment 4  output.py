@@ -57,8 +57,8 @@ The name of the student is sumit  and SID is 21104012
 Object destroyed
 
 ========================================================== RESTART: C:/Users/Sumit/Desktop/python ass4.py =========================================================
-(a) The updated salary of sumit is 90000
-(b) Record of Varun deleted
+(a) The updated salary of mehak is 70000
+(b) Record of viren deleted
 
 ========================================================== RESTART: C:/Users/Sumit/Desktop/python ass4.py =========================================================
 Enter the word: 
